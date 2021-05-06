@@ -1,0 +1,47 @@
+Asunto,Cuerpo,Adjunto,Autor,Creación:,Actualización:
+FTP,"",https://www.redeszone.net/app/uploads-redeszone.net/2019/10/protocolo-ftp.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:31:03 UTC
+DNS,"",https://padlet-uploads.storage.googleapis.com/315422260/61037e00d93861556c4f3539cdf718de/image.png,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:29:52 UTC
+UDP,"",https://padlet-uploads.storage.googleapis.com/315422260/9f39cee8de690b7ccced32f3f3f4e139/WhatsApp_Image_2021_04_19_at_16_24_04.jpeg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:09 UTC
+SSH,"",https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2017/09/encriptacion-simetrica-tutorial-ssh.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:27:32 UTC
+DHCP,"",https://padlet-uploads.storage.googleapis.com/315422260/216e2cf3fbed18df1360fe9a6ce007b4/WhatsApp_Image_2021_04_21_at_12_21_24.jpeg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:32 UTC
+HTTP,"",https://concepto.de/wp-content/uploads/2018/02/http-min-e1518718001273.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:45 UTC
+HTTPS,"",https://interpolados.files.wordpress.com/2016/12/content-https-2x.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:25:45 UTC
+POP3,"",https://genuinocloud.com/wp-content/uploads/2020/12/ipeqeld1.png,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:36 UTC
+IMAP,"",https://www.profesionalreview.com/wp-content/uploads/2016/06/IMAP0.png,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:36:28 UTC
+TCP,"",https://sooluciona.com/wp-content/uploads/2019/04/Diferencias-entre-protocolos-TCP-y-SCTP.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:33:53 UTC
+IP,"",https://snaxter.files.wordpress.com/2017/09/unnamed.png?w=300,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:36:35 UTC
+SMTP,"",https://miracomosehace.com/wp-content/uploads/2020/05/Persona-enviar-recibir-correos-servidor-SMTP.jpg,Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:19:14 UTC
+Puerto 21:,"TCP: Se usa para las conexiones a servidores FTP en su canal de control
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:31:02 UTC
+Puerto 22:,"TCP: Se usa para conexiones seguras SSH y SFTP, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor SSH.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:31:15 UTC
+Puerto 23:,"TCP: Sirve para establecer conexión remotamente con otro equipo por la línea de comandos y controlarlo. Es un protocolo no seguro ya que la autenticación y todo el tráfico de datos se envía sin cifrar.
+UDP: es usado en dispositivos Apple para su servicio de Facetime.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:39 UTC
+Puerto 25:,"TCP: Es usado por el protocolo SMTP para él envió de correos electrónicos
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:31:12 UTC
+Puerto 53:,"TCP: Es usado por el servicio de DNS, Domain Name System
+UDP: Es usado por el servicio DNS.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:48 UTC
+Puerto 80:,"TCP: Se usa para la navegación web de forma no segura HTTP.
+UDP: Se usa para HTTP.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:29:34 UTC
+Puerto 110:,"TCP: Lo usan los gestores de correo electrónico para establecer conexión con el protocolo POP3
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:30:37 UTC
+Puerto 143:,"TCP: Usa el protocolo IMAP que es también usado por los gestores de correo electrónico.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:36:31 UTC
+Puerto 443:,"TCP: Usa el protocolo HTTPS que es seguro y utiliza el protocolo TLS por debajo
+UDP: Usa el protocolo HTTPS.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:27:38 UTC
+Puerto 587:,"TCP: Lo usa el protocolo SMTP SSL, sirve para el envío de correos electrónicos de forma segura.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:31:07 UTC
+Puerto 995:,"TCP: Sirve para que los gestores de correo electrónico establezcan conexión segura con el protocolo POP3 SSL.
+UDP: Se usa POP3 SLL.
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:28:05 UTC
+Puerto 8080:,"TCP: Es el puerto alternativo al puerto 80 TCP para servidores web, normalmente se utiliza este puerto en pruebas.
+UDP: Se usa para HTTP
+","",Digital House (PedagogiaDH),2021-05-04 02:29:35 UTC,2021-05-04 22:29:45 UTC
+Puerto 67:,"UDP:  Se usa como servidor en DHCP
+","",Anónimo,2021-05-04 22:21:13 UTC,2021-05-04 22:30:31 UTC
+Puerto 68:,"UDP: Se utiliza como cliente en DHCP.
+","",Anónimo,2021-05-04 22:21:39 UTC,2021-05-04 22:30:26 UTC
